@@ -6,8 +6,15 @@ Transform your table into an advanced Morse code input device using computer vis
 - Code name: TapMorse
 
 ## Credits
-- Built by: You (project owner)
+- Built by: Unknown27s
 - Assisted by: GitHub Copilot (AI programming partner)
+
+## License
+This project is open source under the MIT License. See `LICENSE` for details.
+
+## Community
+- Please read `CONTRIBUTING.md` before opening PRs.
+- Be kind and follow our `CODE_OF_CONDUCT.md`.
 
 ## ✨ Features
 
