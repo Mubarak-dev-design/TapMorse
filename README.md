@@ -140,7 +140,11 @@ Bonus:
 - Prefer a mid-sized ROI: large enough to include hand/table contact, small enough for speed.
 - Keep the camera stable and minimize background motion in the ROI.
 
-[![Watch the video]()]([https://www.youtube.com/watch?v=_5tFXJQIzi4](https://youtu.be/XALCWf4MhFA))
+## 📹 Demo Video
+
+[![Watch the Demo on YouTube](https://img.youtube.com/vi/XALCWf4MhFA/maxresdefault.jpg)](https://youtu.be/XALCWf4MhFA)
+
+**[▶️ Click here to watch the full demo](https://youtu.be/XALCWf4MhFA)**
 
 ## Troubleshooting
 
